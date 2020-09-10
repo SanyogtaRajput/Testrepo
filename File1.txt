@@ -1,4 +1,4 @@
 Hello This is file1
-Change1- commit with message as"change in file1"
+Change 1- commit with message as"change in file1"
 
-Change2- commit with message as "change2 in file1"
+Change 2- commit with message as "change2 in file1"
